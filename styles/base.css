@@ -1,0 +1,34 @@
+body {
+  background: #2C2C2C;
+}
+
+.navstyle {
+  background: #8b0000;
+}
+
+footer {
+  background-color: #b8000b;
+}
+
+.carousel-image {
+  height: 500px;
+  object-fit: cover;
+  object-position: center;
+
+}
+
+.textcolour {
+  color: #F5F5F5
+}
+
+.coloana {
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+
+}
+
+.headings {
+  margin: 3px;
+  padding: 10px
+}
